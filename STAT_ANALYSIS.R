@@ -11,7 +11,7 @@ library(MASS)
 library(scatterplot3d)
 library(rgl)
 library(randtests)
-
+library(lmtest)
 Y  <- rnorm(100)
 X1 <- rnorm(100)
 X2 <- rnorm(100)

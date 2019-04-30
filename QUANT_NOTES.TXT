@@ -1,0 +1,41 @@
+QUANT_NOTES
+______________________________________________________
+______________________________________________________
+
+KELLY CRITERIAN
+————————————
+LEADING RISK INDICACTORS
+————————————
+MAX_25% DRAWDOWN— above is a failure
+————————————
+the backtest is a filter not a prover
+————————————
+sweet of of range stratt
+sweet of trench stratt
+————————————
+market regieme changes is the hardest thing to calculate
+————————————
+pairs/etfs/triplets are better than individual assets
+————————————
+biggest tracking error = UOS
+————————————
+volatility characteristics and Sharpe is more important than standard arithmetic returns
+————————————
+START BY TRYING TO DISPROVE A STRAT NOT PROVE IT WORKS
+————————————
+FAT TAILS—— COMMON SENSE returns are normally distributed =—— THEY ARE NOT IT IS PROVABLE THE DISTRIBUTION IS EITHER POSSIAN/ (THE ONE THAT STARTS WITH F ) ITS CALLED FOURIER I THINK
+————————————
+CFTC= SEC for forex  65% of accounts are closed within 252 trading days——(APPLIES TO SILVER N GOLD BUT NOT ALL COMMODITIES)
+————————————
+IF BROKERS MAKE MONEY BY ASSUMING RISK—— THIS IS A RED FLAG — REASON=(THEY ARE TAKING THE OPOSITE SIDE OF YOUR TRADE ON VOLATILITY ARBITRAGE)
+————————————
+RETAIL CROUD OF TRADERS IS ALWAYS WRONG—— THEY CANT SEE THE ORDER BOOK— THE MARKET MAKERS BASICALLY DESTROY THE RETAIL TRADERS TRADING ACCOUNTS 
+————————————
+(MARKET MAKERS ALWAYS KNOW THE TRUTH)
+(THE TRUTH IS THE ORDER BOOK)
+(ANYTHING LESS THAN THE ORDER BOOK IS GETTING ROBBED)
+(ALL CHARTS ARE DELAYED AND WRONG) 
+(BY THE TIME YOU LOOK AT A CHART AND MAKE A DECISION IN DAY TRADING ‘’’’ IN THAT AMMOUNT OF TIME YOU HAVE ALREADY LOST’’’’’’) 
+(SUBSCRIBE TO THE ORDER BOOK OR JUST HACK IT ALL THE PORT NUMBERS ARE OPEN)
+————————————
+(THE RATIO OF RETAIL WINNERS TO MARKET MAKERS WINNERS … INCLEASES EXPONENTIALTTLY AS VOLITILIY INCREASES)

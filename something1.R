@@ -1,8 +1,6 @@
 library(htmlTable)
-library(IBrokers)
 library(Quandl)
 library(quantmod)
-library(RcppRoll)
 library(rvest)
 library(TTR)
 library(xml2)

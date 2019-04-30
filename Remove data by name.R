@@ -1,0 +1,1 @@
+rm(list = apropos("data_"))

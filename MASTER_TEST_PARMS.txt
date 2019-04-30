@@ -1,0 +1,27 @@
+#(_DEFINATLY_NO_)
+#(______NO______) 
+#(____WORKING___)
+#(____MAYBE_____)
+
+
+
+
+
+
+WEIGHTS AS FOLLOWS
+
+(_DEFINATLY_NO_) = -2
+(______NO______) = -1
+(____MAYBE_____) = 0
+(____WORKING___) = +1
+(_!!!WORKING!!_) = +2
+
+
+WEIGHTS FOR ELIMINATION
+REQUIRED : -5
+
+WEIGHTS FOR PROPOSITION
+REQUIRED : + 5
+
+
+
